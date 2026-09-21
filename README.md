@@ -27,6 +27,12 @@ Built for student leave requests and class teacher approvals, with a focused das
 - Immediate status and event updates across the dashboard
 - Responsive layout for desktop and mobile screens
 
+### Academic resources
+
+- 7B class timetable: `public/AY 2026-27 7B class TT.pdf`
+- COE 7th semester calendar: `public/COE 7th Sem AY 2026-27.pdf`
+- Both documents are available from the dashboard planning card and open in a new tab.
+
 ## Technology
 
 - React 19
@@ -72,7 +78,9 @@ src/
 ├── index.css     # Global design tokens and page reset
 └── main.jsx      # React entry point
 public/
-└── icons.svg     # Shared public icon sprite
+├── icons.svg     # Shared public icon sprite
+├── AY 2026-27 7B class TT.pdf
+└── COE 7th Sem AY 2026-27.pdf
 ```
 
 ## Demo identity
