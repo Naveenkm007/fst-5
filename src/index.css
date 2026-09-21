@@ -1,0 +1,25 @@
+:root {
+  --ink: #252832;
+  --muted: #858995;
+  --soft: #f6f5f1;
+  --line: #e6e5df;
+  --white: #fff;
+  --coral: #df6f5d;
+  --coral-soft: #fff0eb;
+  --blue: #5587d2;
+  --blue-soft: #edf4ff;
+  --yellow: #e6bb51;
+  --yellow-soft: #fff8df;
+  --green: #4e9978;
+  --green-soft: #eaf6ef;
+  --shadow: 0 14px 34px rgba(40, 39, 30, .055);
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  color: var(--ink);
+  background: #f1f0eb;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body { margin: 0; }
+#root { min-height: 100vh; }
